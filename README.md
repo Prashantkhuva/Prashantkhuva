@@ -20,8 +20,19 @@ MongoDB
 ## 📌 Projects
 
 🔹 Habit Tracker  
-🔹 Project Management App  
-🔹 Lazarev Clone  
+
+A backend API to track daily habits.
+
+Tech Stack
+Node.js
+Express
+MongoDB
+
+Features
+Create habits
+Track daily progress
+Pagination
+Authentication
 
 ---
 
