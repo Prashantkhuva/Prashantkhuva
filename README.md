@@ -27,21 +27,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prashantkhuva&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Prashantkhuva&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Prashantkhuva&theme=algolia&hide_border=true" />
 
 </p>
 
