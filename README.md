@@ -25,17 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
