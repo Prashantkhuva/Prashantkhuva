@@ -12,6 +12,7 @@
 * 🚀 Currently learning **Node.js, Express, MongoDB**
 * 📚 Following **Hitesh Choudhary / ChaiCode**
 * 🌱 Building real-world backend APIs
+* 🧪 Testing APIs using **Postman**
 * 🎯 Goal: Become a **professional backend developer**
 
 ---
@@ -28,9 +29,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -88,3 +89,4 @@ https://x.com/prashantkhuva_
 ---
 
 ⭐ From [PrashantKhuva](https://github.com/Prashantkhuva)
+
