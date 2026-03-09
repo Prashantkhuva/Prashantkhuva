@@ -11,7 +11,7 @@
 * 💻 Backend Developer in progress
 * 🚀 Currently learning **Node.js, Express, MongoDB**
 * 📚 Following **Hitesh Choudhary / ChaiCode**
-* 🧠 Building real-world backend APIs
+* 🌱 Building real-world backend APIs
 * 🎯 Goal: Become a **professional backend developer**
 
 ---
@@ -19,9 +19,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
@@ -30,9 +28,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -72,12 +70,13 @@ MongoDB
 
 ## 📫 Connect With Me
 
-Email: **[work.prashantkhuva@gmail.com](mailto:work.prashantkhuva@gmail.com)**
+📧 Email
+[work.prashantkhuva@gmail.com](mailto:work.prashantkhuva@gmail.com)
 
-LinkedIn
+💼 LinkedIn
 https://linkedin.com/in/prashant-khuva
 
-Twitter (X)
+🐦 Twitter (X)
 https://x.com/prashantkhuva_
 
 ---
