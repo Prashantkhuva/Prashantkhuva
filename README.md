@@ -5,51 +5,82 @@
 <h1 align="center">🚀 Hi, I'm Prashant Khuva</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+API+Builder;Learning+in+Public;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Builder;Freelancer+on+Fiverr+%26+Upwork;Building+Real+World+Products" />
 </p>
 
 ---
 
 ## 🧠 Who I Am
 
-Hey! I'm **Prashant**, a backend-focused developer on a journey to:
+Hey! I'm **Prashant**, a self-taught full-stack developer on a journey to:
 
-- 💻 Build scalable backend systems  
-- 🔐 Learn real-world API security  
-- 📦 Create production-ready projects  
-- 🚀 Work directly with founders  
+- 💻 Build production-ready web applications
+- 🎯 Work directly with startup founders & small businesses
+- 🚀 Grow toward building a software agency
+- 🌍 Create products that solve real problems
 
-Currently mastering the ecosystem of:
+Currently working with:
 
-> **Node.js • Express • MongoDB • REST APIs**
+> **MongoDB • Express.js • React.js • Node.js • Tailwind CSS • Redux Toolkit**
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,redux,vite,git,github,vscode,postman,appwrite" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🧠 Habit Tracker API
+### 🔥 Habit Tracker SaaS
+A full-stack habit tracking app with streaks, analytics, and reminders.
 
-A backend system designed to track habits, maintain streaks, and analyze progress.
-
-**⚙️ Tech Used**
-- Node.js  
-- Express.js  
-- MongoDB  
+**⚙️ Tech Used:** Node.js • Express.js • MongoDB • React.js • Tailwind CSS
 
 **✨ Features**
-- 🔐 Authentication & Authorization  
-- 📆 Habit Tracking System  
-- 🔥 Streak Calculation Logic  
-- 📊 Weekly Analytics  
-- 📄 Pagination & Filtering  
+- 🔐 Authentication & Authorization
+- 📆 Habit Tracking System
+- 🔥 Streak Calculation Logic
+- 📊 Weekly Analytics
+- 📄 Pagination & Filtering
+
+---
+
+### 📝 MegaBlog
+A full-stack blog application with rich text editing and auth.
+
+**⚙️ Tech Used:** React.js • Appwrite • Redux Toolkit • Vite • Tailwind CSS • Framer Motion
+
+**✨ Features**
+- 🔐 Appwrite Auth Integration
+- 📝 Rich Text Editor (TinyMCE)
+- 🗃️ Post CRUD with Redux State
+- ✨ Smooth Framer Motion Animations
+
+---
+
+### 🖥️ Mobile Preview Simulator — VS Code Extension
+Preview your localhost app in mobile viewport directly inside VS Code.
+
+**⚙️ Tech Used:** TypeScript • VS Code WebView API
+
+**✨ Highlights**
+- 📦 500+ installs on VS Code Marketplace
+- 📱 Live mobile preview via HTTP proxy
+- 🚀 Published on official Marketplace
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://codeko.com">
+    <img src="https://img.shields.io/badge/Portfolio-codeko.com-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -72,19 +103,20 @@ A backend system designed to track habits, maintain streaks, and analyze progres
 
 ## 🎯 Current Goals
 
-- 🚀 Become a **professional backend engineer**
-- 📦 Build **scalable SaaS-level APIs**
-- 🤝 Start doing **freelance projects**
-- 🧠 Master **system design basics**
-- 🔐 Learn **backend security & auth deeply**
+- 🚀 Land **freelance clients** via Fiverr & Upwork
+- 📦 Build **production-grade SaaS products**
+- 🏢 Grow toward a **software agency**
+- 🧠 Master **system design & scalable architecture**
+- 🌍 Eventually **found my own company**
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 **Email:** work.prashantkhuva@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/prashant-khuva  
-- 🐦 **Twitter (X):** https://x.com/prashantkhuva_  
+- 📧 **Email:** work.prashantkhuva@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/prashant-khuva
+- 🐦 **Twitter (X):** https://x.com/prashantkhuva_
+- 🎯 **Fiverr:** https://fiverr.com/prashantkhuva
 
 ---
 
@@ -105,8 +137,8 @@ A backend system designed to track habits, maintain streaks, and analyze progres
 ---
 
 <div align="center">
-  <h2>⚡ Always Building. Always Learning.</h2>
-  <blockquote><em>“Code. Build. Improve. Repeat.”</em></blockquote>
+  <h2>⚡ Always Building. Always Shipping.</h2>
+  <blockquote><em>"Code. Build. Ship. Repeat."</em></blockquote>
 </div>
 
 ---
