@@ -74,15 +74,6 @@ Preview your localhost app in mobile viewport directly inside VS Code.
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://codeko.com">
-    <img src="https://img.shields.io/badge/Portfolio-codeko.com-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Insights
 
