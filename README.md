@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=140&section=header&text=Prashant%20Khuva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=140&section=header&text=Prashant%20Khuva&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=65&desc=Full%20Stack%20Developer&descFontColor=c9d1d9&descSize=16&descAlignY=82"/>
 </div>
 
 <div align="center">
@@ -24,17 +24,7 @@ Self-taught full-stack developer. MERN stack focused. Building freelance project
 ### Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,nodejs,ts,tailwind,redux,vite,appwrite,git,github,vscode,postman&perline=7" />
 </div>
 
 ---
@@ -43,7 +33,9 @@ Self-taught full-stack developer. MERN stack focused. Building freelance project
 
 **[HabitFlow](https://habit-flow-fullstack.vercel.app)** — Full-stack Habit Tracking SaaS
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind&perline=10" height="30"/>
+</div>
 
 Auth system · Streak engine · Weekly analytics · Pagination
 
@@ -51,7 +43,9 @@ Auth system · Streak engine · Weekly analytics · Pagination
 
 **[MegaBlog](https://megablog.vercel.app)** — Full-stack Blog Platform
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,appwrite,redux,vite&perline=10" height="30"/>
+</div>
 
 Rich text editor (TinyMCE) · Appwrite auth · Post CRUD · Smooth animations
 
@@ -59,9 +53,11 @@ Rich text editor (TinyMCE) · Appwrite auth · Post CRUD · Smooth animations
 
 **[Mobile Preview Simulator](https://marketplace.visualstudio.com/items?itemName=Prashantkhuva.mobile-preview-simulator)** — VS Code Extension
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Installs-500%2B-brightgreen?style=flat-square"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,vscode&perline=10" height="30"/>
+</div>
 
-Live mobile viewport preview for localhost · Published on official Marketplace
+Live mobile viewport preview for localhost · 500+ installs on Marketplace
 
 ---
 
@@ -94,5 +90,5 @@ Live mobile viewport preview for localhost · Published on official Marketplace
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer"/>
 </div>
