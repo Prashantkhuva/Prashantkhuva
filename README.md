@@ -1,137 +1,69 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Prashant%20Khuva&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=120&section=header"/>
+</div>
 
-<h1 align="center">🚀 Hi, I'm Prashant Khuva</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Freelancer+%E2%80%94+Fiverr+%26+Upwork;Building+toward+a+software+agency" />
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Builder;Freelancer+on+Fiverr+%26+Upwork;Building+Real+World+Products" />
-</p>
-
----
-
-## 🧠 Who I Am
-
-Hey! I'm **Prashant**, a self-taught full-stack developer on a journey to:
-
-- 💻 Build production-ready web applications
-- 🎯 Work directly with startup founders & small businesses
-- 🚀 Grow toward building a software agency
-- 🌍 Create products that solve real problems
-
-Currently working with:
-
-> **MongoDB • Express.js • React.js • Node.js • Tailwind CSS • Redux Toolkit**
+<br/>
 
 ---
 
-## 🧰 Tech Stack
+**Prashant Khuva** — Self-taught full-stack developer. MERN stack focused. Building freelance projects for startup founders and small businesses while growing toward a software agency.
+
+---
+
+### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,redux,vite,git,github,vscode,postman,appwrite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,nodejs,ts,tailwind,redux,vite,git,github,vscode,postman,appwrite" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### Projects
 
-### 🔥 Habit Tracker SaaS
-A full-stack habit tracking app with streaks, analytics, and reminders.
+**[HabitFlow](https://habit-flow-fullstack.vercel.app)** — Full-stack habit tracking SaaS  
+`Node.js` `Express.js` `MongoDB` `React.js` `Tailwind CSS`  
+Auth, streak engine, weekly analytics, pagination
 
-**⚙️ Tech Used:** Node.js • Express.js • MongoDB • React.js • Tailwind CSS
+**[MegaBlog](https://megablog.vercel.app)** — Full-stack blog platform  
+`React.js` `Appwrite` `Redux Toolkit` `TinyMCE` `Framer Motion`  
+Rich text editor, Appwrite auth, post CRUD
 
-**✨ Features**
-- 🔐 Authentication & Authorization
-- 📆 Habit Tracking System
-- 🔥 Streak Calculation Logic
-- 📊 Weekly Analytics
-- 📄 Pagination & Filtering
-
----
-
-### 📝 MegaBlog
-A full-stack blog application with rich text editing and auth.
-
-**⚙️ Tech Used:** React.js • Appwrite • Redux Toolkit • Vite • Tailwind CSS • Framer Motion
-
-**✨ Features**
-- 🔐 Appwrite Auth Integration
-- 📝 Rich Text Editor (TinyMCE)
-- 🗃️ Post CRUD with Redux State
-- ✨ Smooth Framer Motion Animations
+**[Mobile Preview Simulator](https://marketplace.visualstudio.com/items?itemName=Prashantkhuva.mobile-preview-simulator)** — VS Code Extension  
+`TypeScript` `VS Code WebView API`  
+500+ installs — Live mobile viewport preview for localhost
 
 ---
 
-### 🖥️ Mobile Preview Simulator — VS Code Extension
-Preview your localhost app in mobile viewport directly inside VS Code.
-
-**⚙️ Tech Used:** TypeScript • VS Code WebView API
-
-**✨ Highlights**
-- 📦 500+ installs on VS Code Marketplace
-- 📱 Live mobile preview via HTTP proxy
-- 🚀 Published on official Marketplace
-
----
-
-
-## 📊 GitHub Insights
+### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrashantKhuva&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKhuva&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashantKhuva&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKhuva&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PrashantKhuva&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantKhuva&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PrashantKhuva&theme=dark&hide_border=true&background=0d1117&stroke=333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+### Connect
 
-- 🚀 Land **freelance clients** via Fiverr & Upwork
-- 📦 Build **production-grade SaaS products**
-- 🏢 Grow toward a **software agency**
-- 🧠 Master **system design & scalable architecture**
-- 🌍 Eventually **found my own company**
-
----
-
-## 🌐 Connect With Me
-
-- 📧 **Email:** work.prashantkhuva@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/prashant-khuva
-- 🐦 **Twitter (X):** https://x.com/prashantkhuva_
-- 🎯 **Fiverr:** https://fiverr.com/prashantkhuva
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrashantKhuva&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</p>
+[work.prashantkhuva@gmail.com](mailto:work.prashantkhuva@gmail.com) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/prashant-khuva) &nbsp;·&nbsp;
+[X](https://x.com/prashantkhuva_) &nbsp;·&nbsp;
+[Fiverr](https://fiverr.com/s/VYWbYNV)
 
 ---
 
 <div align="center">
-  <h2>⚡ Always Building. Always Shipping.</h2>
-  <blockquote><em>"Code. Build. Ship. Repeat."</em></blockquote>
+  <img src="https://komarev.com/ghpvc/?username=PrashantKhuva&label=profile+views&color=333333&style=flat"/>
 </div>
 
----
-
-⭐ From [PrashantKhuva](https://github.com/PrashantKhuva)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=80&section=footer"/>
+</div>
