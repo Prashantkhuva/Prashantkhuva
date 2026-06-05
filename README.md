@@ -1,85 +1,126 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Prashant%20Khuva&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Prashant%20Khuva&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">🚀 Hi, I'm Prashant Khuva</h1>
+<h1 align="center">🚀 Full Stack Developer • MERN Stack Engineer • Freelancer</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Builder;Freelancer+on+Fiverr+%26+Upwork;Building+Real+World+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production+Ready+Web+Apps;Freelance+MERN+Stack+Developer;Backend+Focused+Engineer;Learning+in+Public+Every+Day;Future+SaaS+Founder" />
 </p>
 
----
-
-## 🧠 Who I Am
-
-Hey! I'm **Prashant**, a self-taught full-stack developer on a journey to:
-
-- 💻 Build production-ready web applications
-- 🎯 Work directly with startup founders & small businesses
-- 🚀 Grow toward building a software agency
-- 🌍 Create products that solve real problems
-
-Currently working with:
-
-> **MongoDB • Express.js • React.js • Node.js • Tailwind CSS • Redux Toolkit**
-
----
-
-## 🧰 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,redux,vite,git,github,vscode,postman,appwrite" />
+<a href="https://github.com/PrashantKhuva">
+<img src="https://img.shields.io/github/followers/PrashantKhuva?label=Followers&style=for-the-badge"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=PrashantKhuva&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🔥 Habit Tracker SaaS
-A full-stack habit tracking app with streaks, analytics, and reminders.
+Hi, I'm **Prashant Khuva**, a self-taught Full Stack Developer from India 🇮🇳.
 
-**⚙️ Tech Used:** Node.js • Express.js • MongoDB • React.js • Tailwind CSS
+I enjoy building scalable applications, solving backend challenges, and turning ideas into real products.
 
-**✨ Features**
-- 🔐 Authentication & Authorization
-- 📆 Habit Tracking System
-- 🔥 Streak Calculation Logic
-- 📊 Weekly Analytics
-- 📄 Pagination & Filtering
+Currently focused on:
 
----
+* 🚀 Full Stack Development
+* ⚡ Backend Engineering
+* 📦 SaaS Products
+* 🎯 Freelancing & Client Projects
+* 🏗️ System Design & Scalable Architecture
 
-### 📝 MegaBlog
-A full-stack blog application with rich text editing and auth.
+### Current Mission
 
-**⚙️ Tech Used:** React.js • Appwrite • Redux Toolkit • Vite • Tailwind CSS • Framer Motion
+```txt
+Learn → Build → Ship → Improve → Repeat
+```
 
-**✨ Features**
-- 🔐 Appwrite Auth Integration
-- 📝 Rich Text Editor (TinyMCE)
-- 🗃️ Post CRUD with Redux State
-- ✨ Smooth Framer Motion Animations
+My goal is to become a world-class software engineer while building products that create real value.
 
 ---
 
-### 🖥️ Mobile Preview Simulator — VS Code Extension
-Preview your localhost app in mobile viewport directly inside VS Code.
-
-**⚙️ Tech Used:** TypeScript • VS Code WebView API
-
-**✨ Highlights**
-- 📦 500+ installs on VS Code Marketplace
-- 📱 Live mobile preview via HTTP proxy
-- 🚀 Published on official Marketplace
-
----
-
-
-## 📊 GitHub Insights
+# ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrashantKhuva&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKhuva&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,appwrite,git,github,vscode,postman,vite" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 Habit Tracker
+
+Production-ready habit tracking platform focused on consistency and analytics.
+
+### Features
+
+* JWT Authentication
+* Habit Management APIs
+* Streak Tracking System
+* Weekly Analytics Dashboard
+* Reminder Functionality
+* MongoDB Integration
+* RESTful Architecture
+
+### Stack
+
+```txt
+Node.js • Express.js • MongoDB • React • Tailwind CSS
+```
+
+---
+
+## 📝 MegaBlog
+
+Modern blogging platform with authentication and rich content management.
+
+### Features
+
+* Appwrite Authentication
+* Rich Text Editor
+* Redux State Management
+* Protected Routes
+* CRUD Operations
+* Responsive Design
+* Framer Motion Animations
+
+### Stack
+
+```txt
+React • Appwrite • Redux Toolkit • Tailwind CSS • Vite
+```
+
+---
+
+## 📱 Mobile Preview Simulator
+
+VS Code Extension built for frontend developers.
+
+### Highlights
+
+* Published on VS Code Marketplace
+* 500+ Installs
+* Mobile Device Preview
+* Localhost Preview Support
+* Built with TypeScript
+
+### Stack
+
+```txt
+TypeScript • VS Code API • WebView
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashantKhuva&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKhuva&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -92,46 +133,63 @@ Preview your localhost app in mobile viewport directly inside VS Code.
 
 ---
 
-## 🎯 Current Goals
+# 🏆 Achievements
 
-- 🚀 Land **freelance clients** via Fiverr & Upwork
-- 📦 Build **production-grade SaaS products**
-- 🏢 Grow toward a **software agency**
-- 🧠 Master **system design & scalable architecture**
-- 🌍 Eventually **found my own company**
-
----
-
-## 🌐 Connect With Me
-
-- 📧 **Email:** work.prashantkhuva@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/prashant-khuva
-- 🐦 **Twitter (X):** https://x.com/prashantkhuva_
-- 🎯 **Fiverr:** https://fiverr.com/prashantkhuva
+* 🚀 Freelancing on Fiverr
+* 🖥️ Published VS Code Extension
+* 🌱 Consistently Learning in Public
+* 💻 Built Multiple Full Stack Applications
+* 🔥 Backend Development Enthusiast
 
 ---
 
-## 💬 Dev Quote
+# 🎯 2026 Goals
+
+* Launch SaaS Products
+* Work with International Clients
+* Master Backend Development
+* Learn System Design
+* Grow a Software Agency
+* Build a Recognizable Developer Brand
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<a href="mailto:work.prashantkhuva@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prashant-khuva">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/prashantkhuva_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://fiverr.com/prashantkhuva">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrashantKhuva&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
+# 💭 Philosophy
 
 <div align="center">
-  <h2>⚡ Always Building. Always Shipping.</h2>
-  <blockquote><em>"Code. Build. Ship. Repeat."</em></blockquote>
+
+### "Great products are built one commit at a time."
+
+**Code. Build. Ship. Repeat. 🚀**
+
 </div>
 
 ---
 
-⭐ From [PrashantKhuva](https://github.com/PrashantKhuva)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
