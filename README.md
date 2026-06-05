@@ -8,12 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production+Ready+Web+Apps;Freelance+MERN+Stack+Developer;Backend+Focused+Engineer;Learning+in+Public+Every+Day;Future+SaaS+Founder" />
 </p>
 
-<p align="center">
-<a href="https://github.com/PrashantKhuva">
-<img src="https://img.shields.io/github/followers/PrashantKhuva?label=Followers&style=for-the-badge"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=PrashantKhuva&style=for-the-badge"/>
-</p>
 
 ---
 
