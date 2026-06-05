@@ -1,174 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:111827,100:0EA5E9&text=Prashant%20Khuva&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Freelancer%20•%20MERN%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58A6FF&height=160&section=header&text=Prashant%20Khuva&fontSize=48&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Meteoric&descAlignY=85&descSize=16&descColor=8B949E" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(MERN+%2B+Next.js);Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Full+Stack+Applications;Learning+in+Public+Everyday;Building+towards+a+Software+Agency"/>
+<div align="center">
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Freelance-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   19 · Self-taught · MERN Stack · Rajkot, India            │
+│   Turning ideas into products. Building in public.          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## `~/about`
 
-```ts
+```js
 const prashant = {
-  role: "Full Stack Developer",
-  stack: ["MERN", "Next.js", "TypeScript"],
-  experience: "Freelancing + Building Products",
-  currentlyLearning: ["Advanced Backend", "Scalable Architecture"],
-  goal: "Build a Software Agency",
+  age        : 19,
+  location   : "Rajkot, Gujarat, India 🇮🇳",
+  stack      : ["MongoDB", "Express", "React", "Node.js", "Next.js"],
+  agency     : "Meteoric — withmeteoric.com",
+  freelance  : ["Fiverr", "Upwork"],
+  learning   : "Next.js (Hitesh Choudhary)",
+  building   : "in public on GitHub",
+  goal       : "Developer → Freelancer → Software Agency Founder",
 };
 ```
 
-- Self-taught developer passionate about building real-world products
-- Focused on MERN Stack & Next.js ecosystem
-- Freelancer helping startups & businesses
-- Building projects, products, and developer tools
-- Learning in public and improving consistently 🚀
+<br/>
 
----
-
-# ⚒️ Tech Stack
+## `~/stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,redux,tailwind,appwrite,vite,firebase,git,github,vscode,postman&perline=8"/>
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,framer&theme=dark)](https://skillicons.dev)
+
+**Backend & DB**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark)](https://skillicons.dev)
+
+**Tools & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,vite,linux&theme=dark)](https://skillicons.dev)
+
+**Currently Exploring**
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,redux&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<br/>
 
-# 🚀 Featured Projects
+## `~/projects`
 
-## 🔥 HabitFlow — Habit Tracking SaaS
+| Project | Stack | Status | Link |
+|---------|-------|--------|------|
+| **HabitFlow** — MERN SaaS habit tracker | React · Node · MongoDB · Framer Motion | ✅ Live | [habitflow.indevs.in](https://habitflow.indevs.in) |
+| **Meteoric** — Software agency website | React · GSAP · EmailJS | ✅ Live | [withmeteoric.com](https://withmeteoric.com) |
+| **MegaBlog** — Full-stack blog platform | React · Appwrite · Redux · TinyMCE | ✅ Done | [GitHub](https://github.com/Prashantkhuva) |
+| **mstrymessage** — Anonymous messaging app | Next.js · NextAuth · Groq AI · MongoDB | ✅ Done | [GitHub](https://github.com/Prashantkhuva) |
+| **Mobile Preview Simulator** — VS Code extension | TypeScript · WebView API | ✅ 500+ installs | [Marketplace](https://marketplace.visualstudio.com) |
 
-> Full-stack productivity platform focused on consistency & analytics.
+<br/>
 
-### ✨ Features
-
-- Authentication system
-- Habit streak engine
-- Weekly analytics
-- Pagination & filters
-- Responsive UI
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind&perline=10" height="42"/>
-
-### 🔗 Live Demo
-
-https://habit-flow-fullstack.vercel.app
-
----
-
-## 📝 MegaBlog — Full Stack Blog Platform
-
-> Rich blogging experience powered by Appwrite.
-
-### ✨ Features
-
-- TinyMCE rich text editor
-- Appwrite authentication
-- CRUD functionality
-- Redux state management
-- Smooth animations
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,redux,appwrite,vite,tailwind&perline=10" height="42"/>
-
-### 🔗 Live Demo
-
-https://megablog.vercel.app
-
----
-
-## 📱 Mobile Preview Simulator — VS Code Extension
-
-> Preview localhost apps inside realistic mobile frames directly in VS Code.
-
-### ✨ Features
-
-- Live localhost preview
-- Mobile viewport simulation
-- Developer productivity tool
-- Published on VS Code Marketplace
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=ts,vscode&perline=10" height="42"/>
-
-### 🔗 Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=Prashantkhuva.mobile-preview-simulator
-
----
-
-# 📊 GitHub Analytics
+## `~/stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prashantkhuva&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Prashantkhuva&theme=transparent&hide_border=true&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prashantkhuva&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkhuva&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=6" />
 
 </div>
 
----
-
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="mailto:work.prashantkhuva@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/prashant-khuva">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/prashantkhuva_">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://fiverr.com/s/VYWbYNV">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Prashantkhuva&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1f2e&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
----
+<br/>
 
-# 🎯 Current Focus
+## `~/currently`
 
-- Scaling freelance work internationally
-- Advanced backend systems
-- SaaS product development
-- Open source contributions
-- Personal branding
+```
+▸ Building Meteoric — software agency for pre-seed to Series A founders
+▸ Learning Next.js through Hitesh Choudhary's Udemy course
+▸ Freelancing on Fiverr & Upwork (MERN Stack)
+▸ Accepting client projects → withmeteoric.com
+```
 
----
+<br/>
+
+## `~/connect`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Prashantkhuva&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+[![Portfolio](https://img.shields.io/badge/Meteoric-withmeteoric.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://withmeteoric.com)
+&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Prashantkhuva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prashantkhuva)
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,100:0F172A"/>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f2e,100:0d1117&height=100&section=footer&reversal=false" />
 
 </div>
